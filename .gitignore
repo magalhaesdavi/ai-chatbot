@@ -112,3 +112,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# editor, os cache directory
+.vscode/
+.idea/
+__MACOSX/
+
+# data
+weights/
